@@ -12,16 +12,16 @@
 - 💡 Passionate about **building projects** & **learning new skills**
 - 🤝 Open to collaborating on **startups** & **MNC projects**
 - 📫 Connect with me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant00100)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishant00100)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-singh-032b1a291/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_akashchaudhary__45/?hl=en)
 
 ---
 
 ## 🌐 Socials
 
 <p align="center">
-    <a href="https://linkedin.com/in/nishant00100"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-    <a href="https://instagram.com/nishant00100"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/Akashsingh86500"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+    <a href="https://instagram.com/_akashchaudhary__45"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -94,7 +94,7 @@
 ## 🔝 Top Contributed Repos
 
 <p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=nishant00100&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos"/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=Akashsingh86500&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos"/>
 </p>
 
 ---
@@ -102,7 +102,7 @@
 ## 👀 Profile Visit Count
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nishant00100&style=flat-square&color=0e75b6" alt="Profile Visit Count"/>
+    <img src="https://komarev.com/ghpvc/?username=Akashsingh86500&style=flat-square&color=0e75b6" alt="Profile Visit Count"/>
 </p>
 
 ---
